@@ -32,7 +32,7 @@ edu_group_weights = {
     "Academic degree - MA or higher": 0.144,
 }
 rel_weights = {1: 0.803, 2: 0.121, 3: 0.025, 4: 0.024, 5: 0.003, 6: 0.022}
-relid_weights = {1: 0.094, 2: 0.221, 3: 0.301, 4: 0.377}
+relid_weights = {1: 0.377, 2: 0.301, 3: 0.221, 4: 0.094}
 
 
 # Categorize age into ranges
